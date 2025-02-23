@@ -29,7 +29,7 @@
 ### 📫 Bana Ulaşın
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
 [![YouTube](https://img.shields.io/badge/YouTube-Oltadaki_D%C3%BCnya-red?style=for-the-badge&logo=youtube)](#)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engin-deniz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engindenizz)
 
 ---
 ⭐️ **GitHub profilimi ziyaret ettiğiniz için teşekkürler!**
