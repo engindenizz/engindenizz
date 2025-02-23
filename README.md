@@ -1,16 +1,35 @@
-![MasterHead](https://cutshort.io/_next/image?url=https%3A%2F%2Fcutshort.io%2Fblog%2Fwp-content%2Fuploads%2F2018%2F04%2Fbd1e5c2457278a37313c55ce8c887aa3.jpg&w=1920&q=75) 
-<h1 align="center">Hi, I'm Engin Deniz</h1>
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://twitter.com/enngindenizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enngindenizz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/engin-deniz-eryalcin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/engin-deniz-eryalcin/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/engineryalcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/engineryalcin" height="30" width="40" /></a>
-</p>
+## 👋 Merhaba, ben Engin Deniz!
+🚀 **Python ve AI/NLP ile ilgileniyorum.** Chatbot geliştirme konusunda kendimi geliştiriyorum.  
+🎣 **Balıkçılık merakım var** ve **Oltadaki Dünya** adlı YouTube kanalımı yönetiyorum.  
+💻 **Girişimcilik** alanında deneyimliyim, **Jalapel** markasının kurucusuyum.
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engindenizz&show_icons=true&locale=en&layout=compact" alt="engindenizz" /></p>
+### 🔧 Çalıştığım Teknolojiler
+- **Programlama:** Python, JavaScript
+- **Veri Bilimi & AI:** NumPy, Pandas, TensorFlow
+- **Araçlar:** Git, Docker, VS Code, Jupyter Notebook
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engindenizz&show_icons=true&locale=en" alt="engindenizz" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engindenizz&" alt="engindenizz" /></p>
+### 📊 GitHub İstatistikleri
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=engin-deniz&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engin-deniz&layout=compact&theme=radical)
+
+---
+
+### 📌 Üzerinde Çalıştığım Projeler
+- 🐍 **Catch the Cat**: Python'un Turtle kütüphanesi ile bir oyun projesi.
+- 🤖 **Chatbot Geliştirme**: AI/NLP alanında chatbot projeleri üzerine çalışıyorum.
+- 🎣 **Balıkçılık ve Veri Analizi**: LRF balıkçılığı ile ilgili verileri analiz eden bir Python uygulaması.
+
+---
+
+### 📫 Bana Ulaşın
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![YouTube](https://img.shields.io/badge/YouTube-Oltadaki_D%C3%BCnya-red?style=for-the-badge&logo=youtube)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engin-deniz)
+
+---
+⭐️ **GitHub profilimi ziyaret ettiğiniz için teşekkürler!**
