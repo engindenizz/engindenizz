@@ -12,17 +12,18 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=engin-deniz&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engin-deniz&layout=compact&theme=radical)
+### 🎯 İlgi Alanlarım
+- 💡 Yapay zeka ve chatbot projeleri geliştirme
+- 🎮 Oyun programlama (özellikle Python ile oyun projeleri)
+- 📊 Veri analizi ve otomasyon süreçleri
+- 🎣 Balıkçılık ve doğa sporları
 
 ---
 
 ### 📌 Üzerinde Çalıştığım Projeler
-- 🐍 **Catch the Cat**: Python'un Turtle kütüphanesi ile bir oyun projesi.
 - 🤖 **Chatbot Geliştirme**: AI/NLP alanında chatbot projeleri üzerine çalışıyorum.
 - 🎣 **Balıkçılık ve Veri Analizi**: LRF balıkçılığı ile ilgili verileri analiz eden bir Python uygulaması.
+- 🐍 **Catch the Cat**: Python'un Turtle kütüphanesi ile bir oyun projesi.
 
 ---
 
